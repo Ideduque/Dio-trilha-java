@@ -1,6 +1,6 @@
 public class TiposVariaveis{
     public static void main(String[] args) throws Exception {
-        // Tipos primitivos
+        /*  Tipos primitivos
 
         String meuNome = "Joseilde Duque";
         double salarioMinimo = 2500;
@@ -13,8 +13,8 @@ public class TiposVariaveis{
 
         System.out.println(numero);
 
-        // Constantes
+         Constantes
 
-        final double VALOR_DE_PI = 3.14;
+        final double VALOR_DE_PI = 3.14; */
     }
 }
