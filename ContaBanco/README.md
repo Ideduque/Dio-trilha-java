@@ -27,6 +27,6 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 *"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
 
 
-#### Autor
+#### Desafio sugerido pela expert:
 - [Gleyson Sampaio](https://github.com/glysns)
-- www.dio.me
+ www.dio.me
