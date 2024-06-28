@@ -28,10 +28,12 @@ public class ContaTerminal {
 
         scanner.close();
 
-        /* numeroAg = 1021;
-        agencia = "067-8";
+        
+        
+        /* Conta = "1021";
+        Ag = "067-8";
         nomeCliente = "MARIO ANDRADE";
-        saldo = 237.48; */
+        */
 
     }
 }

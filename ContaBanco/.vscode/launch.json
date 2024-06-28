@@ -9,18 +9,19 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "ContaTerminal",
+            "projectName": "ContaBanco_eba7338d",
         },
         {
             "type": "java",
             "name": "ContaTerminal",
             "request": "launch",
             "mainClass": "ContaTerminal",
-            "projectName": "ContaBanco_eba7338d"
-
-            
-
-
+            "args": [
+                "MARIO ANDRADE",
+                "1021",
+                "067-8"  
+            ]
         
         }
     ]
