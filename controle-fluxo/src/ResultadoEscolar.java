@@ -1,4 +1,5 @@
 public class ResultadoEscolar {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
          //USANDO CONDIÇÃO TERNÁRIA
         
