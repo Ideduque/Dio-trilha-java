@@ -12,6 +12,7 @@ public  class ExemploWhile {
                 valorDoce = mesada; 
             
             System.out.println("Doce do valor: " + valorDoce + " Adicionado no carrinho");
+            //A variável que seja condicional, precisa ser tratada, para encerrar o fluxo
             mesada = mesada - valorDoce;
         } 
         System.out.println("Mesada:" + mesada);
