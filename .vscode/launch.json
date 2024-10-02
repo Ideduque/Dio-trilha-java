@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "Dio-trilha-java_46d93ce"
+        },
+        {
+            "type": "java",
             "name": "ExemploWhile",
             "request": "launch",
             "mainClass": "ExemploWhile",
