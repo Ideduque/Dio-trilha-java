@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exe",
+            "request": "launch",
+            "mainClass": "exe",
+            "projectName": "Dio-trilha-java_46d93ce"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "ExemploDoWhile",
